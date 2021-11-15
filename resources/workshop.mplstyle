@@ -1,0 +1,15 @@
+axes.spines.right : False
+axes.spines.top : False
+axes.titlesize : 18
+axes.labelsize : 14
+figure.figsize : 10, 8
+figure.titlesize : 24
+font.weight : light
+legend.fontsize : 12
+lines.linewidth : 2
+lines.markersize : 10
+patch.edgecolor : 000000
+patch.force_edgecolor: True
+patch.linewidth : 1
+xtick.labelsize : 12
+ytick.labelsize : 12
